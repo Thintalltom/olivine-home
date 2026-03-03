@@ -65,7 +65,7 @@ export function Navigation() {
             </a>
           )}
           <a
-            href="https://wa.me/2348168934133?text=Hi, I would like to book a service"
+            href="https://docs.google.com/forms/d/e/1FAIpQLSfc-lV2QwJeA6_Qdeo_uHDstthnjyaNiXZ0_sMRkgRmqMJdWw/viewform?usp=publish-editor"
             target="_blank"
             rel="noopener noreferrer"
             className={`px-6 py-2.5 text-sm font-bold tracking-widest cursor-pointer uppercase transition-all duration-300 ${isScrolled ? 'bg-[#556B2F] text-white hover:bg-[#3E4F22]' : 'bg-[#C5A059] text-white hover:bg-[#B08D45]'}`}>

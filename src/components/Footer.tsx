@@ -1,5 +1,5 @@
 import React from 'react';
-import { Facebook, Instagram, Mail, Phone, MapPin } from 'lucide-react';
+import { Facebook, Instagram, Mail, Phone, MapPin, Twitter } from 'lucide-react';
 import Logo from '../assets/Logo.jpeg';
 import { FaSnapchatGhost } from "react-icons/fa";
 // TikTok icon component
@@ -42,6 +42,13 @@ export function Footer() {
                 rel="noopener noreferrer"
                 className="w-10 h-10 rounded-full bg-white/5 flex items-center justify-center hover:bg-[#C5A059] hover:text-white transition-all duration-300 text-gray-400">
                 <Instagram className="w-4 h-4" />
+              </a>
+              <a
+                href="https://x.com/Olivine_Homes"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="w-10 h-10 rounded-full bg-white/5 flex items-center justify-center hover:bg-[#C5A059] hover:text-white transition-all duration-300 text-gray-400">
+                <Twitter className="w-4 h-4" />
               </a>
               <a
                 href="https://www.tiktok.com/@olivine.homes?_r=1&_t=ZS-93MeI5Z3chQ"
