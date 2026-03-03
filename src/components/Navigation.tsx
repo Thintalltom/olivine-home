@@ -119,7 +119,7 @@ export function Navigation() {
                 </a>
               )}
               <a
-                href="https://wa.me/2348168934133?text=Hi, I would like to book a service"
+                href="https://docs.google.com/forms/d/e/1FAIpQLSfc-lV2QwJeA6_Qdeo_uHDstthnjyaNiXZ0_sMRkgRmqMJdWw/viewform?usp=publish-editor"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="px-8 py-3 bg-[#556B2F] cursor-pointer text-white font-bold tracking-widest uppercase mt-4">

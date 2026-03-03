@@ -88,15 +88,15 @@ export function Hero() {
           }}
           className="flex flex-col sm:flex-row items-center justify-center gap-4">
 
-          <a 
+          <a
             href="https://docs.google.com/forms/d/e/1FAIpQLSfc-lV2QwJeA6_Qdeo_uHDstthnjyaNiXZ0_sMRkgRmqMJdWw/viewform?usp=publish-editor"
             target="_blank"
             rel="noopener noreferrer"
-          className="w-full sm:w-auto px-8 py-3.5 border border-white text-white font-bold tracking-widest uppercase hover:bg-white hover:text-[#2F3325] transition-all duration-300 text-center">
+            className="w-full sm:w-auto px-8 py-3.5 border border-white text-white font-bold tracking-widest uppercase hover:bg-white hover:text-[#2F3325] transition-all duration-300 text-center">
             Book Now
           </a>
-          <a 
-            href="https://wa.me/2348168934133?text=Hi, I would like to contact you"
+          <a
+            href="https://wa.me/2348168934133?text=Hi%21%20If%20you%20are%20reaching%20me%20about%20an%20enquiry%2C%20booking%20or%20complaint%20and%20you%20do%20not%20get%20a%20response%20in%205-10%20minutes%20please%20call%20%28NOT%20FLASH%29.%0A%0AFor%20bookings%20and%20inquiry%2C%20kindly%20answer%20the%20following%20to%20help%20us%20serve%20you%0A%0ANumber%20of%20rooms%3A%0APreferred%20location%3A%0APurpose%20of%20booking%3A%0AHow%20many%20guests%3A%0ACheck%20in%20dates%3A%0ACheck%20out%20dates%3A%0ABudget%20if%20any%3A"
             target="_blank"
             rel="noopener noreferrer"
             className="w-full sm:w-auto px-8 py-3.5 bg-white text-[#2F3325] font-bold tracking-widest uppercase hover:bg-[#C5A059] hover:text-white transition-all duration-300 text-center">
